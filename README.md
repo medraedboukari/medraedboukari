@@ -1,8 +1,8 @@
 [![MasterHead](https://www.einfochips.com/wp-content/uploads/2018/10/iot_1.gif)](https://medraedboukari.io)
 <h1 align="center">Hi 👋, I'm Mohamed Raed Boukari</h1>
 <h3 align="center">Electrical engineering student with a specialization in Automation and Industrial Computing | Embedded Systems | IOT</h3>
-<img align="right" alt="Coding" width="400" src="image_processing20210906-11048-yson7m.gif>
-![image_processing20210906-11048-yson7m](https://github.com/medraedboukari/medraedboukari/assets/153066554/339c8b81-62c6-438f-adfd-bb7bed7f5a68)
+<img align="right" alt="Coding" width="400" src="https://github.com/medraedboukari/medraedboukari/assets/153066554/339c8b81-62c6-438f-adfd-bb7bed7f5a68">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medraedboukari&label=Profile%20views&color=0e75b6&style=flat" alt="medraedboukari" /> </p>
 
