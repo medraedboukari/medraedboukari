@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Raed Boukari</h1>
-<h3 align="center">Electrical engineering student with a specialization in Automation and Industrial Computing | Embedded Systems | IOT</h3>
+<h3 align="center">Electrical engineering student with a specialization in Automation and Industrial Computing | Embedded Systems </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/medraedboukari/medraedboukari/assets/153066554/339c8b81-62c6-438f-adfd-bb7bed7f5a68">
 
 
