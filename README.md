@@ -1,27 +1,55 @@
-![MasterHead](https://github.com/medraedboukari/medraedboukari/assets/153066554/0bc6cb63-fcd0-4323-a48b-be9784d34f0c)
-
-
 <h1 align="center">Hi 👋, I'm Mohamed Raed Boukari</h1>
-<h3 align="center">Electrical engineering student with a specialization in Automation and Industrial Computing | Embedded Systems </h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/medraedboukari/medraedboukari/assets/153066554/339c8b81-62c6-438f-adfd-bb7bed7f5a68">
+<h3 align="center">Engineering Student @ ESPRIT · Edge AI · Embedded Systems · IoT</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medraedboukari&label=Profile%20views&color=0e75b6&style=flat" alt="medraedboukari" /> </p>
-
-- 📫 How to reach me **raedboukari2018@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-raed-boukari-6a7353257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-raed-boukari-6a7353257" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed raed boukari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed raed boukari" height="30" width="40" /></a>
-<a href="https://instagram.com/raed_boukari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raed_boukari" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=medraedboukari&label=Profile%20views&color=0e75b6&style=flat" alt="medraedboukari" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🔭 What I work on
+
+Building complete Edge AI + IoT systems — from data to deployment. I care about making intelligence run reliably on constrained hardware, without cloud dependency, and about rigorous, verifiable results over impressive-sounding numbers.
+
+- 🌱 **AgriEdge-AI** — a fully offline Edge AI system for multi-crop plant disease detection: fused dataset (48K images, 24 classes), YOLO11n optimized with TensorRT on NVIDIA Jetson Nano (31 FPS), LoRa-based IoT sensor network (ESP32-S3, BME680), and a connected Flutter mobile app. Abstract submitted to **embedded world Conference 2027** (Nuremberg).
+- 🌍 **Smart Carbon Credit Tracking System** — real-time IoT + Edge AI carbon monitoring (ESP32-S3, BME680, LoRa, Edge Impulse). Published at SITE 2025, recommended for Springer.
+
+### 🎓 Background
+
+Engineering student at **ESPRIT** (Tunisia), specializing in Embedded Systems and Edge AI. Previously earned a degree in Electrical Engineering (Automation & Industrial Computing) from ISET Bizerte.
+
+### 🏆 Certifications
+
+NVIDIA — Getting Started with Deep Learning · Microsoft Azure AI Fundamentals · IPC-A-610 (Electronic Assembly)
+
+### 🤝 Community
+
+Former President, IEEE Robotics & Automation Society (ISET Bizerte) · Embedded systems workshop instructor (30+ students/session) at SIERSIE · Open source contributor (LyX)
+
+### 📫 Reach me
+
+<p align="left">
+<a href="mailto:mohamedraed.boukari@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/medraedboukari" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medraedboukari&show_icons=true&locale=en&layout=compact" alt="medraedboukari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medraedboukari&show_icons=true&locale=en" alt="medraedboukari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medraedboukari&" alt="medraedboukari" /></p>
