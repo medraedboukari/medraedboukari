@@ -50,6 +50,4 @@ Former President, IEEE Robotics & Automation Society (ISET Bizerte) · Embedded 
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medraedboukari&show_icons=true&locale=en&layout=compact" alt="medraedboukari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medraedboukari&show_icons=true&locale=en" alt="medraedboukari" /></p>
